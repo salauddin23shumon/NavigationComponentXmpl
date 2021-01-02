@@ -5,20 +5,20 @@
     <item android:id="@+id/home"
         android:title="Home"
         app:showAsAction="always"
-        android:orderInCategory="1"
+
         android:icon="@drawable/ic_bar_chart"/>
 
     <item android:id="@+id/explore"
         android:title="Explore"
         app:showAsAction="always"
-        android:orderInCategory="2"
+
         android:icon="@drawable/ic_pie_chart"/>
 
 
     <item android:id="@+id/more"
         android:title="More"
         app:showAsAction="always"
-        android:orderInCategory="2"
+
         android:icon="@drawable/ic_more_horizontal"/>
 
 </menu>
