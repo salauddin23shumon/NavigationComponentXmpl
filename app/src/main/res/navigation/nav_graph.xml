@@ -7,26 +7,26 @@
 
     <fragment
         android:id="@+id/home"
-        android:name="com.mationStudios.navigationuisample.Fragments.Home"
+        android:name="com.sss.navigationuisample.Fragments.Home"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" >
 
     </fragment>
     <fragment
         android:id="@+id/explore"
-        android:name="com.mationStudios.navigationuisample.Fragments.Explore"
+        android:name="com.sss.navigationuisample.Fragments.Explore"
         android:label="fragment_explore"
         tools:layout="@layout/fragment_explore" >
 
     </fragment>
     <fragment
         android:id="@+id/more"
-        android:name="com.mationStudios.navigationuisample.Fragments.More"
+        android:name="com.sss.navigationuisample.Fragments.More"
         android:label="fragment_more"
         tools:layout="@layout/fragment_more" />
     <fragment
         android:id="@+id/startFragment"
-        android:name="com.mationStudios.navigationuisample.Fragments.StartFragment"
+        android:name="com.sss.navigationuisample.Fragments.StartFragment"
         android:label="fragment_start"
         tools:layout="@layout/fragment_start" >
         <action

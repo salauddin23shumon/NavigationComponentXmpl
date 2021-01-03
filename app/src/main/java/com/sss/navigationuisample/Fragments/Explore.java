@@ -1,4 +1,4 @@
-package com.mationStudios.navigationuisample.Fragments;
+package com.sss.navigationuisample.Fragments;
 
 
 import android.os.Bundle;
@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.mationStudios.navigationuisample.R;
+import com.sss.navigationuisample.R;
 
 /**
  * A simple {@link Fragment} subclass.
